@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Full and true account of the barbarous and cruel usage of Mr. George Willington, midshipman on board the Faulkland man of war which having taken a prize call'd the Lascine, richly la[d]en from the West-Indies with several persons of quality and passengers on board : the leiutenant, George Titsdon, Mr. Willington, and several others were put on board the said prize, who for some secret grudge toward the said Mr. Willington beat and bruis'd him so barbarously ...</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23273</idno><idno type="EEBO-CITATION">19318575</idno>
+  <idno type="VID">205499</idno>
+  <idno type="EEBO-PROQUEST">2240880432</idno>
+  
+            <idno type="STC">Wing F2302</idno>
+            <idno type="OCLC">19318575</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205499)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Full and true account of the barbarous and cruel usage of Mr. George Willington, midshipman on board the Faulkland man of war which having taken a prize call'd the Lascine, richly la[d]en from the West-Indies with several persons of quality and passengers on board : the leiutenant, George Titsdon, Mr. Willington, and several others were put on board the said prize, who for some secret grudge toward the said Mr. Willington beat and bruis'd him so barbarously ...</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and so[ld] ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licenced according to or[der]."</note>
+                  <note>Date of imprint suggested by Wing.</note>
+                  <note>Imperfect: t.p. torn and pages tightly bound with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Willington, George.</term>
+               <term type="topical_term">Midshipmen --  Crimes against.</term>
+               <term type="geographic_name">Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205499:1"/>
+            <p>A full and True ACCOUNT OF THE Barbarous and Cruel usage of Mr. <hi>George Willington,</hi> Midshipman on Board the <hi>Faulkland</hi> Man of War; Which having taken a Prize call'd the <hi>Lascine,</hi> Richly La<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en from the <hi>West-Indies</hi> with several Per<g ref="char:EOLhyphen"/>sons of Quality and Passengers on Board. The Leiutenant, <hi>George Titsdon,</hi> Mr. <hi>Wil<g ref="char:EOLhyphen"/>lington,</hi> and several others were put on Board the said Prize, who for some secret grudge toward the said Mr. <hi>Willington</hi> beat and bruis'd him so Barbarously, that he <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Dy'd, and was buried in <hi>Stepne<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Yard, and taken up on <hi>Wednesday</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <hi>27th.</hi> of <hi>September,</hi> and Op<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>Jury</hi> of <hi>Surgeons,</hi> who depos'd up<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Leiutenant to have been the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his Death.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>
+                              <hi>Licenced according to Or<gap reason="illegible" resp="#keyers" extent="1 span">
+                                    <desc>〈…〉</desc>
+                                 </gap>
+                              </hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed and So<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in <hi>Black-Fry<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <pb facs="tcp:205499:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:205499:2"/>
+            <head>A Full and True Account of the Barbarous and Cruel Usage of Mr. <hi>Geo. Willington,</hi> Midshipman on Board the <hi>Faulkland</hi> Man of War; <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>Tis strange to think what Elevations and haughty thoughts Preferment creates in some Peoples Minds, and how proudly, nay sometimes barba<g ref="char:EOLhyphen"/>rously, they behave themselves towards those, whose meanner Fortunes have plac'd them be<g ref="char:EOLhyphen"/>low'em, and as it were ty'd their Hands from righting the Injuries and Indignaties put upon 'em by their Supersors; As this Tragical Rela<g ref="char:EOLhyphen"/>tion may inform us.</hi>
+            </p>
+            <p>IT happened that the Wise of Mr. <hi>Willing<g ref="char:EOLhyphen"/>ton</hi> (as is usual with Sailors Wives) when this Prize came to Harbour went on board to Congatulate her Husbands return, where she stayed till next day: But she upon some Occa<g ref="char:EOLhyphen"/>tion as it was well Light, espy'd the Captain Leiuftenant going off with his Boat with Goods in it, and was so unhappy to her self as to speak of it before several in the Ship in the following
+<pb facs="tcp:205499:3"/> words, <hi>viz. Gentlemen, the Captain Leiutenant is gone off with the Boat betimes this Morning pritty well Laden.</hi>
+            </p>
+            <p>This being told to the Captain Lieutenant upon his Return, and the Woman being gone, the Captain Lieutenant call'd for this <hi>Willing<g ref="char:EOLhyphen"/>ton,</hi> and spoke thus to him; <hi>Sirrah, I'll make you suffer for your Wives tongue;</hi> thereupon beat him Extreamly to that Degree that he bled as well Outwardly as Inwardly, he being fallen along, he bid him get up, or he would give him asmuch more, you need not do that said this <hi>Willington,</hi> for you have done my Business al<g ref="char:EOLhyphen"/>ready.</p>
+            <p>But coming sometime after and seeing him lye still in the place, beat him till he forc'd him to Rise and make his Escape from him into the Boat which was just going a shore, and so con<g ref="char:EOLhyphen"/>vey'd himself to a Friends house, and from thence sent the Captain a Letter, which though the same was not of his own Hand, yet he as<g ref="char:EOLhyphen"/>sur'd the Captain that it was of his own Dicta<g ref="char:EOLhyphen"/>ting, wherein he let him know that his Merci<g ref="char:EOLhyphen"/>less blows had Incapacitated him for ever com<g ref="char:EOLhyphen"/>ing on board again, and as the same would be his Death, he laid the same to his Charge.</p>
+            <p>He lived some days after he sent the Letter, but the day before he died he declared he was not sick at all, yet believed he should dye, there being something unusual about his Stomach,
+<pb facs="tcp:205499:3"/> which the next Morning depriv'd him of Life, the same Rising very suddenly up into his throat, and was so violent that it forced his eyes to start out of his Head.</p>
+            <p>Being Dead, his Wife laid all upon the Cap<g ref="char:EOLhyphen"/>tain, who was the Cause of his Death, and would have the Corroner to fit upon the Corps of her Husband, as being fully resolved to Pro<g ref="char:EOLhyphen"/>secute the Captain for his Death, and in order thereunto desir'd the Beadfe to go for the Corroner, giving him Mony for his trouble; but the Beadle whether prevailed upon otherwise, or of his own Head, used his ut<g ref="char:EOLhyphen"/>most endeavours to diswade her from her Reso<g ref="char:EOLhyphen"/>lution, with telling her that the Captain wou'd Ruin her, which having Insinuated into the Woman, that she was somuch wrought upon as to Consent to proceed to his Interment, which was accordingly perform'd in <hi>Stepney</hi> Church<g ref="char:EOLhyphen"/>yard.</p>
+            <p>As soon as the same was done the Captain Lieutenant gave out threatening Expressions, saying, that the Woman his Wife had Poison'd him, and now would charge him with his death, and now seeing she had privatly buried him he would clear himself of so foul a scandal, and thereupon would have the Corps taken up a<g ref="char:EOLhyphen"/>gain and Search'd, and Employing a particular friend of his own in the matter: The Corroner was sent for and two peculier Surgeons, were
+<pb facs="tcp:205499:4"/> spoke to for the Opening the body of the De<g ref="char:EOLhyphen"/>ceased, and the Chirurgeons being so Diligent of Attendance presented themselves before any of the <hi>Jury</hi> or the <hi>Coroner</hi> himself at the <hi>Red-Bull,</hi> where the Corps were brought unto, over against the Church which was the place In<g ref="char:EOLhyphen"/>certed in the Warrant for the <hi>Jury</hi> to Repair, so the <hi>Chirurgions</hi> upon their first coming Or<g ref="char:EOLhyphen"/>dered the Coffin to be unnailed, that they might forthwith open the Deceas'd which had been Interr'd some Days. But a Friend of the Wid<g ref="char:EOLhyphen"/>dowes being present told the <hi>Chirurgeions</hi> with some Vehemency that the Coffin should not be Opened till the <hi>Jury</hi> came, and caused the same to be done, and therefore bid them open it at their Peril, so that in some uneasiness they for<g ref="char:EOLhyphen"/>bore till the <hi>Coroner</hi> and the <hi>Jury</hi> came, in the mean while a Friend to the Deceas'd who suspects there might be Connivance and Treachery by Bribery, himself being privy to the ill Treat<g ref="char:EOLhyphen"/>ment of his Deceas'd Friend, and therefore would not have his Blood sold at such unequal Terms, provided the <hi>Chirurgeons</hi> of the Col<g ref="char:EOLhyphen"/>ledge to come to the Opening of the Body, which was done by them preferrable to the other <hi>Chirurgeons,</hi> and in the same was found a Large Cake of Blood congealed about his heart, and thereupon the three <hi>Chirurgeons</hi> or <hi>Physicians</hi> gave it their Opinion that some Ex<g ref="char:EOLhyphen"/>tream violence had been done to the Corps
+<pb facs="tcp:205499:4"/> when Living which still Retained some visible Simptoms of Blows or Stroks which had Oc<g ref="char:EOLhyphen"/>casioned the said Cake of Blood, and was the Immediate cause of his Death.</p>
+            <p>One <hi>Surgeon</hi> would fain have smooth'd the matter over by pretending his Liver grew to his Stomach, and several idle excuses.</p>
+            <p>His Head was swell'd to on unspeakable bigness; and every part almost had its share of his Cruelty, who not<g ref="char:EOLhyphen"/>withstanding his Bottles of Brandy and Napkin of Su<g ref="char:EOLhyphen"/>gar sent into the <hi>Bull</hi> to treat the Jury with, will tis hop'd, by sad experience find how dear and how precious every Man's Life must be to him when he's sure of Loosing his own. This not being the First Blood he has Spilt, <hi>ha<g ref="char:EOLhyphen"/>ving cruelly forc'd a Seaman to jump over-board to avaid his Anger who perish'd unavoidably.</hi>
+            </p>
+            <p>With this the <hi>Jury</hi> was well satisfied, and accordingly all of them Agreed to a Verdit of Murder one person only Excepted, who was so Refractory as not to Cohere with his Bre<g ref="char:EOLhyphen"/>thren to make an unannimous Verdict. Before which several Witnesses were called and Exam<g ref="char:EOLhyphen"/>mined and amongst them several of the Pas<g ref="char:EOLhyphen"/>sengers which gave an Indifferent or modest Evidence. But this may be noted that the Per<g ref="char:EOLhyphen"/>son that had been so Instrumental to assist the Captain Leiuetenant as an Evedence for him, brought in the Whip which the said Captain Leivetenant made use of saying these words, <hi>viz.</hi> Was this like to kill a man? Let me see it says the Corroner, who Wrapping the
+<pb facs="tcp:205499:5"/> thong about his hand said to him. Sirrah you that seem to Ridicule the Real fact and manner of this deceased's Death, I tell you that thus a man might knock your Brains out of your head. But what was most Remarkable, was that the same person that was so Obstinate not to consent to the Murder of the Deceas'd, after the Fore<g ref="char:EOLhyphen"/>man had demanded that the Capt. Leivetenant be taken up when the bringing in their Verdict. It was Defer'd, the said person was one of the Bail, so that whether this <hi>Jury-man</hi> was partial or impartial in the matter, will be best known at the Tryal of the said Capt. Leiuetenant the next Sessions at the <hi>Old Baily,</hi> to which we Refer you.</p>
+            <p>
+               <hi>Note,</hi> A Tradesman living in <hi>Redlion-</hi>street near <hi>Goodman</hi>'s Fields, was on Board when this Inhumane Barbarity was transacted, and is ready at any time to de<g ref="char:EOLhyphen"/>clare, that it was so far from being the effects of Heat or Passion, that to his knowledge 'twas Revenge and Premeditated Malice.</p>
+            <p>'Tis hartily wish'd every good Body, or at least those whom it may Concern, would look better into the Ma<g ref="char:EOLhyphen"/>nagment of Beadles in General, for 'tis almost Impossi<g ref="char:EOLhyphen"/>ble to think what Knavery, what Cruelties, and what Murders are oftentimes Conceal'd by their underhand dealing.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205499:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
